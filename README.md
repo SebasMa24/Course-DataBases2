@@ -1,2 +1,12 @@
 # Course-DataBases2
-Repositorie for all the asigments from the course Data Bases 2 
+Repositorie for all the assignments from the course Data Bases II
+
+## Project Team
+- Luis Sebastian Martinez Guerrero - 20191005153
+- Leidy Marcela Morales Segura - 20112020052
+
+## Assignments
+| Period | Assignments       |
+|--------|-------------------|
+| 1      | Workshop-1        |
+| 1      | Project Catch-Up  |
