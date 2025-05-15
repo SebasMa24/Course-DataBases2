@@ -8,5 +8,5 @@ Repositorie for all the assignments from the course Data Bases II
 ## Assignments
 | Period | Assignments       |
 |--------|-------------------|
-| 1      | Workshop-1        |
+| 1      | [Workshop-1](https://github.com/SebasMa24/Course-DataBases2/blob/main/Workshops/Workshop-1/Workshop-1.pdf)        |
 | 1      | Project Catch-Up  |
