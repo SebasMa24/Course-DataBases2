@@ -6,7 +6,7 @@
 ## Sections
 | Section | Page       |
 |--------|-------------------|
-| Data System Architecture      | 23        |
-| Information Requirements      | 26  |
-| Query Proposal      | 28  |
-| Feedback changes      | 34  |
+| Data System Architecture      | 22        |
+| Information Requirements      | 25  |
+| Query Proposal      | 27  |
+| Feedback changes      | 31  |
